@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: GNN Based Drug Response Prediction GSoC 2022
+title: Generate Example Dataset for PyTorch Geometric Based on Pathway Commons and Prototype, GSOC 23
 collections:
   reports:
     output: true
