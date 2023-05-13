@@ -1,0 +1,255 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	STATUS	AGE_AT_INITIAL_PATHOLOGIC_DIAGNOSIS	PATHOLOGIC_STAGE	CLINICAL_M	PATHOLOGIC_N	PATHOLOGIC_T	ANATOMIC_SITE	DIAGNOSIS_METHOD	TUMOR_STATUS	PRIMARY_THERAPY_OUTCOME_SUCCESS	VITAL_STATUS
+TCGA-OR-A5J2	1677		STATUS	DECEASED										
+TCGA-OR-A5J4	423		STATUS	DECEASED										
+TCGA-OR-A5J5	365		STATUS	DECEASED										
+TCGA-OR-A5J7	490		STATUS	DECEASED										
+TCGA-OR-A5J8	579		STATUS	DECEASED										
+TCGA-OR-A5JA	922		STATUS	DECEASED										
+TCGA-OR-A5JB	551		STATUS	DECEASED										
+TCGA-OR-A5JC	1750		STATUS	DECEASED										
+TCGA-OR-A5JE	2105		STATUS	DECEASED										
+TCGA-OR-A5JG	541		STATUS	DECEASED										
+TCGA-OR-A5JM	562		STATUS	DECEASED										
+TCGA-OR-A5JU	289		STATUS	DECEASED										
+TCGA-OR-A5JY	552		STATUS	DECEASED										
+TCGA-OR-A5K2	994		STATUS	DECEASED										
+TCGA-OR-A5K9	344		STATUS	DECEASED										
+TCGA-OR-A5KY	391		STATUS	DECEASED										
+TCGA-OR-A5KZ	125		STATUS	DECEASED										
+TCGA-OR-A5LB	1204		STATUS	DECEASED										
+TCGA-OR-A5LC	159		STATUS	DECEASED										
+TCGA-OR-A5LD	1197		STATUS	DECEASED										
+TCGA-OR-A5LE	662		STATUS	DECEASED										
+TCGA-OR-A5LF	445		STATUS	DECEASED										
+TCGA-OR-A5LH	2385		STATUS	DECEASED										
+TCGA-OR-A5LJ	1105		STATUS	DECEASED										
+TCGA-OR-A5LL	1613		STATUS	DECEASED										
+TCGA-P6-A5OF	207		STATUS	DECEASED										
+TCGA-P6-A5OH	0		STATUS	DECEASED										
+TCGA-OR-A5J1	1355		STATUS	DECEASED										
+TCGA-OR-A5JJ	490		STATUS	DECEASED										
+TCGA-OR-A5K5	498		STATUS	DECEASED										
+TCGA-OR-A5L2	1852		STATUS	DECEASED										
+TCGA-OR-A5LI	436		STATUS	DECEASED										
+TCGA-OR-A5LO	2405		STATUS	DECEASED										
+TCGA-OR-A5J1	0		STATUS	Initial Diagnosis	58	stage II	m0	n0	t2					
+TCGA-OR-A5J2	0		STATUS	Initial Diagnosis	44	stage IV	m1	n0	t3					
+TCGA-OR-A5J3	0		STATUS	Initial Diagnosis	23	stage III	m0	n0	t3					
+TCGA-OR-A5J4	0		STATUS	Initial Diagnosis	23	stage IV	m1	n1	t3					
+TCGA-OR-A5J5	0		STATUS	Initial Diagnosis	30	stage III	m0	n0	t4					
+TCGA-OR-A5J6	0		STATUS	Initial Diagnosis	29	stage II	m0	n0	t2					
+TCGA-OR-A5J7	0		STATUS	Initial Diagnosis	30	stage III	m0	n0	t3					
+TCGA-OR-A5J8	0		STATUS	Initial Diagnosis	66	stage III	m0	n0	t3					
+TCGA-OR-A5J9	0		STATUS	Initial Diagnosis	22	stage II	m0	n0	t2					
+TCGA-OR-A5JA	0		STATUS	Initial Diagnosis	53	stage IV	m1	n0	t4					
+TCGA-OR-A5JB	0		STATUS	Initial Diagnosis	52	stage IV	m1	n0	t4					
+TCGA-OR-A5JC	0		STATUS	Initial Diagnosis	37									
+TCGA-OR-A5JD	0		STATUS	Initial Diagnosis	57	stage II	m0	n0	t2					
+TCGA-OR-A5JE	0		STATUS	Initial Diagnosis	17	stage I	m0	n0	t1					
+TCGA-OR-A5JF	0		STATUS	Initial Diagnosis	69	stage II	m0	n0	t2					
+TCGA-OR-A5JG	0		STATUS	Initial Diagnosis	61	stage IV	m1	n1	t4					
+TCGA-OR-A5JH	0		STATUS	Initial Diagnosis	32	stage II	m0	n0	t2					
+TCGA-OR-A5JI	0		STATUS	Initial Diagnosis	22	stage I	m0	n0	t1					
+TCGA-OR-A5JJ	0		STATUS	Initial Diagnosis	65	stage IV	m1	n1	t4					
+TCGA-OR-A5JK	0		STATUS	Initial Diagnosis	49	stage IV	m1	n0	t4					
+TCGA-OR-A5JL	0		STATUS	Initial Diagnosis	36	stage I	m0	n0	t1					
+TCGA-OR-A5JM	0		STATUS	Initial Diagnosis	25	stage IV	m1	n0	t4					
+TCGA-OR-A5JO	0		STATUS	Initial Diagnosis	26	stage I	m0	n0	t1					
+TCGA-OR-A5JP	0		STATUS	Initial Diagnosis	40	stage II	m0	n0	t2					
+TCGA-OR-A5JQ	0		STATUS	Initial Diagnosis	26	stage II	m0	n0	t2					
+TCGA-OR-A5JR	0		STATUS	Initial Diagnosis	45	stage I	m0	n0	t1					
+TCGA-OR-A5JS	0		STATUS	Initial Diagnosis	65	stage II	m0	n0	t2					
+TCGA-OR-A5JT	0		STATUS	Initial Diagnosis	65	stage II	m0	n0	t2					
+TCGA-OR-A5JU	0		STATUS	Initial Diagnosis	58	stage III	m0	n0	t3					
+TCGA-OR-A5JV	0		STATUS	Initial Diagnosis	55	stage II	m0	n0	t2					
+TCGA-OR-A5JW	0		STATUS	Initial Diagnosis	47	stage II	m0	n0	t2					
+TCGA-OR-A5JX	0		STATUS	Initial Diagnosis	50	stage III	m0	n0	t3					
+TCGA-OR-A5JY	0		STATUS	Initial Diagnosis	68	stage IV	m1	n1	t4					
+TCGA-OR-A5JZ	0		STATUS	Initial Diagnosis	60	stage II	m0	n0	t2					
+TCGA-OR-A5K0	0		STATUS	Initial Diagnosis	69	stage II	m0	n0	t2					
+TCGA-OR-A5K1	0		STATUS	Initial Diagnosis	48	stage II	m0	n0	t2					
+TCGA-OR-A5K2	0		STATUS	Initial Diagnosis	32	stage III	m0	n0	t4					
+TCGA-OR-A5K3	0		STATUS	Initial Diagnosis	53	stage II	m0	n0	t2					
+TCGA-OR-A5K4	0		STATUS	Initial Diagnosis	64	stage III	m0	n0	t4					
+TCGA-OR-A5K5	0		STATUS	Initial Diagnosis	59	stage III	m0	n0	t3					
+TCGA-OR-A5K6	0		STATUS	Initial Diagnosis	56	stage II	m0	n0	t2					
+TCGA-OR-A5K8	0		STATUS	Initial Diagnosis	39	stage II	m0	n0	t2					
+TCGA-OR-A5K9	0		STATUS	Initial Diagnosis	61	stage II	m0	n0	t2					
+TCGA-OR-A5KB	0		STATUS	Initial Diagnosis	61	stage II	m0	n0	t2					
+TCGA-OR-A5KO	0		STATUS	Initial Diagnosis	39	stage IV	m1	n0	t4					
+TCGA-OR-A5KP	0		STATUS	Initial Diagnosis	45	stage II	m0	n0	t2					
+TCGA-OR-A5KQ	0		STATUS	Initial Diagnosis	20	stage II	m0	n0	t2					
+TCGA-OR-A5KS	0		STATUS	Initial Diagnosis	72	stage II	m0	n0	t2					
+TCGA-OR-A5KT	0		STATUS	Initial Diagnosis	44	stage I	m0	n0	t1					
+TCGA-OR-A5KU	0		STATUS	Initial Diagnosis	37	stage II	m0	n0	t2					
+TCGA-OR-A5KV	0		STATUS	Initial Diagnosis	17	stage III	m0	n1	t2					
+TCGA-OR-A5KW	0		STATUS	Initial Diagnosis	55	stage III	m0	n1	t2					
+TCGA-OR-A5KX	0		STATUS	Initial Diagnosis	25	stage III	m0	n1	t2					
+TCGA-OR-A5KY	0		STATUS	Initial Diagnosis	23	stage IV	m1	n1	t4					
+TCGA-OR-A5KZ	0		STATUS	Initial Diagnosis	42	stage II	m0	n0	t2					
+TCGA-OR-A5L1	0		STATUS	Initial Diagnosis	37	stage II	m0	n0	t2					
+TCGA-OR-A5L2	0		STATUS	Initial Diagnosis	83	stage II	m0	n0	t2					
+TCGA-OR-A5L3	0		STATUS	Initial Diagnosis	67	stage I	m0	n0	t1					
+TCGA-OR-A5L4	0		STATUS	Initial Diagnosis	48	stage III	m0	n0	t4					
+TCGA-OR-A5L5	0		STATUS	Initial Diagnosis	77	stage I	m0	n0	t1					
+TCGA-OR-A5L6	0		STATUS	Initial Diagnosis	60	stage II	m0	n0	t2					
+TCGA-OR-A5L8	0		STATUS	Initial Diagnosis	36	stage II	m0	n0	t2					
+TCGA-OR-A5L9	0		STATUS	Initial Diagnosis	53	stage II	m0	n0	t2					
+TCGA-OR-A5LA	0		STATUS	Initial Diagnosis	52	stage II	m0	n0	t2					
+TCGA-OR-A5LB	0		STATUS	Initial Diagnosis	59	stage IV	m1	n0	t4					
+TCGA-OR-A5LC	0		STATUS	Initial Diagnosis	71	stage IV	m1	n0	t4					
+TCGA-OR-A5LD	0		STATUS	Initial Diagnosis	52	stage III	m0	n0	t4					
+TCGA-OR-A5LE	0		STATUS	Initial Diagnosis	14	stage II	m0	n0	t2					
+TCGA-OR-A5LF	0		STATUS	Initial Diagnosis	74	stage III	m0	n0	t3					
+TCGA-OR-A5LG	0		STATUS	Initial Diagnosis	46	stage III	m0	n0	t3					
+TCGA-OR-A5LH	0		STATUS	Initial Diagnosis	36	stage II	m0	n0	t2					
+TCGA-OR-A5LI	0		STATUS	Initial Diagnosis	42	stage IV	m1	n0	t4					
+TCGA-OR-A5LJ	0		STATUS	Initial Diagnosis	54	stage IV	m1	n1	t2					
+TCGA-OR-A5LK	0		STATUS	Initial Diagnosis	62	stage II	m0	n0	t2					
+TCGA-OR-A5LL	0		STATUS	Initial Diagnosis	75	stage II	m0	n0	t2					
+TCGA-OR-A5LM	0		STATUS	Initial Diagnosis	23	stage II	m0	n0	t2					
+TCGA-OR-A5LN	0		STATUS	Initial Diagnosis	31	stage II	m0	n0	t2					
+TCGA-OR-A5LO	0		STATUS	Initial Diagnosis	61	stage II	m0	n0	t2					
+TCGA-OR-A5LP	0		STATUS	Initial Diagnosis	37	stage II	m0	n0	t2					
+TCGA-OR-A5LR	0		STATUS	Initial Diagnosis	30	stage II	m0	n0	t2					
+TCGA-OR-A5LS	0		STATUS	Initial Diagnosis	34	stage II	m0	n0	t2					
+TCGA-OR-A5LT	0		STATUS	Initial Diagnosis	57	stage III	m0	n0	t3					
+TCGA-OU-A5PI	0		STATUS	Initial Diagnosis	53	stage IV	m1	n1	t2					
+TCGA-P6-A5OF	0		STATUS	Initial Diagnosis	55	stage III	m0	n0	t4					
+TCGA-P6-A5OH	0		STATUS	Initial Diagnosis	59	stage IV	m1	n0	t4					
+TCGA-PA-A5YG	0		STATUS	Initial Diagnosis	51	stage II	m0	n0	t2					
+TCGA-PK-A5H8	0		STATUS	Initial Diagnosis	42	stage II	m0	n0	t2					
+TCGA-PK-A5H9	0		STATUS	Initial Diagnosis	27	stage II	m0	n0	t2					
+TCGA-PK-A5HA	0		STATUS	Initial Diagnosis	63	stage I	m0	n0	t1					
+TCGA-PK-A5HB	0		STATUS	Initial Diagnosis	63									
+TCGA-PK-A5HC	0		STATUS	Initial Diagnosis	44	stage III	m0	n0	t4					
+TCGA-OR-A5J1	754		STATUS	Distant Metastasis						Peritoneal Surfaces	Imaging			
+TCGA-OR-A5J2	289		STATUS	Distant Metastasis						Soft Tissue	Imaging			
+TCGA-OR-A5J3	53		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5J3	783		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5J3	1149		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5J3	1149		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5J4	126		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5J4	126		STATUS	Locoregional Recurrence						Lymph Node(s)	Imaging			
+TCGA-OR-A5J4	126		STATUS	Locoregional Recurrence						Peritoneal Surfaces	Imaging			
+TCGA-OR-A5J5	50		STATUS	Locoregional Recurrence						Vena Cava Thrombus	Imaging			
+TCGA-OR-A5J7	162		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5J7	162		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5J7	162		STATUS	Locoregional Recurrence						Retroperitoneal Lymph Nodes	Imaging			
+TCGA-OR-A5J8	530		STATUS	Locoregional Recurrence						Peritoneal Surfaces	Imaging			
+TCGA-OR-A5J9	414		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5JE	477		STATUS	Locoregional Recurrence							Pathology			
+TCGA-OR-A5JM	72		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5JS	166		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5JU	268		STATUS	Distant Metastasis						Ovarian	Pathology			
+TCGA-OR-A5JV	953		STATUS	New Primary Tumor						Lymph Node(s)	Pathology			
+TCGA-OR-A5JY	75		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5JY	111		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5JZ	247		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5JZ	247		STATUS	Distant Metastasis						Soft Tissue Of Pancreatic Tail	Imaging			
+TCGA-OR-A5K0	659		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5K1	826		STATUS	Locoregional Recurrence						Peritoneal Surfaces	Imaging			
+TCGA-OR-A5K2	97		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5K5	108		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5K5	108		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5K6	391		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5K6	391		STATUS	Locoregional Recurrence						Peritoneal Surfaces	Imaging			
+TCGA-OR-A5K6	391		STATUS	Distant Metastasis						Liver	Pathology			
+TCGA-OR-A5K6	391		STATUS	Distant Metastasis						Peritoneal Surfaces	Pathology			
+TCGA-OR-A5K9	236		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5K9	236		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5K9	236		STATUS	Locoregional Recurrence						Lymph Node(s)	Imaging			
+TCGA-OR-A5K9	236		STATUS	Locoregional Recurrence						Peritoneal Surfaces	Imaging			
+TCGA-OR-A5KB	214		STATUS	Distant Metastasis						Soft Tissue	Pathology			
+TCGA-OR-A5KO	541		STATUS	Distant Metastasis						Liver	Pathology			
+TCGA-OR-A5KO	541		STATUS	Distant Metastasis						Lung	Pathology			
+TCGA-OR-A5KP	1250		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5KP	1250		STATUS	Distant Metastasis						Liver	Pathology			
+TCGA-OR-A5KT	2099		STATUS	Distant Metastasis						Pancreas	Imaging			
+TCGA-OR-A5KT	2099		STATUS	Distant Metastasis						Pancreas	Pathology			
+TCGA-OR-A5KV	1116		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5KX	62		STATUS	Distant Metastasis						Bone	Imaging			
+TCGA-OR-A5KX	62		STATUS	Distant Metastasis						Bone	Pathology			
+TCGA-OR-A5KX	62		STATUS	Distant Metastasis						Lung	Pathology			
+TCGA-OR-A5KX	62		STATUS	Distant Metastasis						Lymph Node(s)	Pathology			
+TCGA-OR-A5KY	178		STATUS	Locoregional Recurrence						Peritoneal Surfaces	Imaging			
+TCGA-OR-A5KZ	36		STATUS	Distant Metastasis						Bone				
+TCGA-OR-A5KZ	36		STATUS	Locoregional Recurrence						Abdomen	Imaging			
+TCGA-OR-A5L1	685		STATUS	Distant Metastasis						Bone	Imaging			
+TCGA-OR-A5LB	611		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5LC	50		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5LC	50		STATUS	Distant Metastasis						Lymph Node(s)	Imaging			
+TCGA-OR-A5LD	444		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5LE	265		STATUS	Locoregional Recurrence						Peritoneal Surfaces	Imaging			
+TCGA-OR-A5LG	1393		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5LI	61		STATUS	Distant Metastasis						Bone	Imaging			
+TCGA-OR-A5LI	61		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-OR-A5LI	61		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5LJ	98		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5LL	213		STATUS	Distant Metastasis						Liver	Pathology			
+TCGA-OR-A5LO	153		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-OR-A5LO	153		STATUS	Distant Metastasis						Lymph Node(s)	Imaging			
+TCGA-OU-A5PI	351		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-P6-A5OF	143		STATUS	Distant Metastasis						Liver	Imaging			
+TCGA-P6-A5OF	143		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-PK-A5HB	213		STATUS	Distant Metastasis						Lung	Pathology			
+TCGA-PK-A5HC	131		STATUS	Distant Metastasis						Lung	Imaging			
+TCGA-PK-A5HC	167		STATUS	Locoregional Recurrence						Peritoneal Surfaces	Imaging			
+TCGA-OR-A5J3	2091		STATUS	Last Follow Up								With Tumor	Complete Remission/Response	Alive
+TCGA-OR-A5J6	2703		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5J9	1352		STATUS	Last Follow Up								With Tumor	Complete Remission/Response	Alive
+TCGA-OR-A5JD	3038		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5JF	2015		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5JH	2110		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5JI	2331		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5JK	1497		STATUS	Last Follow Up								Tumor Free	Partial Remission/Response	Alive
+TCGA-OR-A5JL	2056		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5JO	1194		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5JP	464		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5JQ	1103		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5JR	3688		STATUS	Last Follow Up										
+TCGA-OR-A5JS	383		STATUS	Last Follow Up										
+TCGA-OR-A5JT	907		STATUS	Last Follow Up								With Tumor	Stable Disease	Alive
+TCGA-OR-A5JV	2023		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5JW	2202		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5JX	950		STATUS	Last Follow Up										
+TCGA-OR-A5JZ	822		STATUS	Last Follow Up								With Tumor	Progressive Disease	Alive
+TCGA-OR-A5K0	1029		STATUS	Last Follow Up										
+TCGA-OR-A5K1	3289		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5K3	3465		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5K4	1082		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5K6	1493		STATUS	Last Follow Up								With Tumor	Complete Remission/Response	Alive
+TCGA-OR-A5K8	749		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5KB	741		STATUS	Last Follow Up								With Tumor	Progressive Disease	Alive
+TCGA-OR-A5KO	1414		STATUS	Last Follow Up								With Tumor	Complete Remission/Response	Alive
+TCGA-OR-A5KP	2777		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5KQ	2677		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5KS	2549		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5KT	2895		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5KU	4673		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5KV	3878		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5KW	2076		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5KX	1364		STATUS	Last Follow Up								With Tumor	Progressive Disease	Alive
+TCGA-OR-A5L1	1781		STATUS	Last Follow Up										
+TCGA-OR-A5L3	4628		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5L4	967		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5L5	1317		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5L6	861		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5L8	885		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5L9	871		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5LA	719		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5LG	1589		STATUS	Last Follow Up										
+TCGA-OR-A5LK	2740		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5LM	1858		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5LN	2342		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5LP	1857		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5LR	853		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5LS	1096		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OR-A5LT	549		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-OU-A5PI	1171		STATUS	Last Follow Up								With Tumor	Stable Disease	Alive
+TCGA-PA-A5YG	756		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-PK-A5H8	3623		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-PK-A5H9	616		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-PK-A5HA	1201		STATUS	Last Follow Up								Tumor Free	Complete Remission/Response	Alive
+TCGA-PK-A5HB	1293		STATUS	Last Follow Up										
+TCGA-PK-A5HC	679		STATUS	Last Follow Up										
