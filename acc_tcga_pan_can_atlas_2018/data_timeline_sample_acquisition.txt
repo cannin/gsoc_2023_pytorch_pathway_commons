@@ -1,0 +1,92 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	SAMPLE_ID	METHOD_OF_SAMPLE_PROCUREMENT	COUNTRY	MAXIMUM_TUMOR_DIMENSION	SAMPLE_PRESCREENED	TUMOR_NECROSIS_PERCENT	TUMOR_NUCLEI_PERCENT	TUMOR_WEIGHT	VESSEL_USED
+TCGA-OR-A5J1	-7		Sample Acquisition	TCGA-OR-A5J1-01	Surgical Resection	Australia	7.0	Yes	0	90	54	Cassette
+TCGA-OR-A5J2	1		Sample Acquisition	TCGA-OR-A5J2-01	Surgical Resection	Brazil	18	Yes	0	80	395	Cassette
+TCGA-OR-A5J3	0		Sample Acquisition	TCGA-OR-A5J3-01	Surgical Resection	Brazil	6	Yes	0	80	447	Cassette
+TCGA-OR-A5J4	0		Sample Acquisition	TCGA-OR-A5J4-01	Surgical Resection	Brazil	14	Yes	5	70	50	Cassette
+TCGA-OR-A5J5	0		Sample Acquisition	TCGA-OR-A5J5-01	Surgical Resection	Brazil	11	Yes	0	90	52	Cassette
+TCGA-OR-A5J6	13		Sample Acquisition	TCGA-OR-A5J6-01	Surgical Resection	Brazil	20	Yes	10	70	445	Cassette
+TCGA-OR-A5J7	0		Sample Acquisition	TCGA-OR-A5J7-01	Surgical Resection	Brazil	12	Yes	5	70	111	Cassette
+TCGA-OR-A5J8	30		Sample Acquisition	TCGA-OR-A5J8-01	Surgical Resection	Brazil	19	Yes	20	70	231	Cassette
+TCGA-OR-A5J9	0		Sample Acquisition	TCGA-OR-A5J9-01	Surgical Resection	Brazil	11	Yes	0	90	309	Cassette
+TCGA-OR-A5JA	5		Sample Acquisition	TCGA-OR-A5JA-01	Surgical Resection	Australia	15	Yes	5	80	257	Cassette
+TCGA-OR-A5JB	168		Sample Acquisition	TCGA-OR-A5JB-01	Surgical Resection	Australia	8.0	Yes	0	80	51	Cassette
+TCGA-OR-A5JC	0		Sample Acquisition	TCGA-OR-A5JC-01	Surgical Resection	Australia	13.5	Yes	0	80	59	Cassette
+TCGA-OR-A5JD	0		Sample Acquisition	TCGA-OR-A5JD-01	Surgical Resection	Australia	9.8	Yes	0	80	60	Cassette
+TCGA-OR-A5JE	0		Sample Acquisition	TCGA-OR-A5JE-01	Surgical Resection	Australia	2.2	Yes	10	90	86	Cassette
+TCGA-OR-A5JF	0		Sample Acquisition	TCGA-OR-A5JF-01	Surgical Resection	Australia	6.3	Yes	0	80	52	Cassette
+TCGA-OR-A5JG	15		Sample Acquisition	TCGA-OR-A5JG-01	Surgical Resection	Australia	6.5	Yes	0	80	72	Cassette
+TCGA-OR-A5JH	0		Sample Acquisition	TCGA-OR-A5JH-01	Surgical Resection	Australia	12.0	Yes	10	70	29	Cassette
+TCGA-OR-A5JI	0		Sample Acquisition	TCGA-OR-A5JI-01	Surgical Resection	Australia	4.0	Yes	5	80	30	Cassette
+TCGA-OR-A5JJ	0		Sample Acquisition	TCGA-OR-A5JJ-01	Surgical Resection	Australia	9.5	Yes	20	80	56	Cassette
+TCGA-OR-A5JK	4		Sample Acquisition	TCGA-OR-A5JK-01	Surgical Resection	Australia	14.0	Yes	0	90	79	Cassette
+TCGA-OR-A5JL	0		Sample Acquisition	TCGA-OR-A5JL-01	Surgical Resection	Australia	3.8	Yes	0	80	95	Cassette
+TCGA-OR-A5JM	1		Sample Acquisition	TCGA-OR-A5JM-01	Surgical Resection	Australia	10.0	Yes	10	90	121	Cassette
+TCGA-OR-A5JO	0		Sample Acquisition	TCGA-OR-A5JO-01	Surgical Resection	Australia	5.0	Yes	0	80	54	Cassette
+TCGA-OR-A5JP	0		Sample Acquisition	TCGA-OR-A5JP-01	Surgical Resection	Australia	10.0	Yes	0	90	12	Cassette
+TCGA-OR-A5JQ	-8		Sample Acquisition	TCGA-OR-A5JQ-01	Surgical Resection	Australia	8.5	Yes	0	80	103	Cassette
+TCGA-OR-A5JR	0		Sample Acquisition	TCGA-OR-A5JR-01	Surgical Resection	United States	5	Yes	0	90	90	Cryovial
+TCGA-OR-A5JS	0		Sample Acquisition	TCGA-OR-A5JS-01	Surgical Resection	United States	7.2	Yes	0	90	151	Cryovial
+TCGA-OR-A5JT	0		Sample Acquisition	TCGA-OR-A5JT-01	Surgical Resection	United States	11.5	Yes	10	80	228	Cryovial
+TCGA-OR-A5JU	0		Sample Acquisition	TCGA-OR-A5JU-01	Surgical Resection	United States	8.5	Yes	10	70	174	Cryovial
+TCGA-OR-A5JV	0		Sample Acquisition	TCGA-OR-A5JV-01	Surgical Resection	United States	17	Yes	0	90	111	Cryovial
+TCGA-OR-A5JW	0		Sample Acquisition	TCGA-OR-A5JW-01	Surgical Resection	United States	8.6	Yes	0	90	233	Cryovial
+TCGA-OR-A5JX	0		Sample Acquisition	TCGA-OR-A5JX-01	Surgical Resection	United States	10	Yes	0	80	207	Cryovial
+TCGA-OR-A5JY	15		Sample Acquisition	TCGA-OR-A5JY-01	Surgical Resection	United States	17.1	Yes	20	80	268	Cryovial
+TCGA-OR-A5JZ	0		Sample Acquisition	TCGA-OR-A5JZ-01	Surgical Resection	United States	8.5	Yes	10	90	170	Cryovial
+TCGA-OR-A5K0	0		Sample Acquisition	TCGA-OR-A5K0-01	Surgical Resection	United States	9	Yes	0	90	236	Cryovial
+TCGA-OR-A5K1	0		Sample Acquisition	TCGA-OR-A5K1-01	Surgical Resection	United States	6.2	Yes	0	90	195	Cryovial
+TCGA-OR-A5K2	0		Sample Acquisition	TCGA-OR-A5K2-01	Surgical Resection	United States	14.5	Yes	0	90	243	Cryovial
+TCGA-OR-A5K3	0		Sample Acquisition	TCGA-OR-A5K3-01	Surgical Resection	United States	16	Yes	0	90	202	Cryovial
+TCGA-OR-A5K4	0		Sample Acquisition	TCGA-OR-A5K4-01	Surgical Resection	United States	15.5	Yes	0	90	195	Cryovial
+TCGA-OR-A5K5	0		Sample Acquisition	TCGA-OR-A5K5-01	Surgical Resection	United States	14.5	Yes	0	90	155	Cryovial
+TCGA-OR-A5K6	0		Sample Acquisition	TCGA-OR-A5K6-01	Surgical Resection	United States	8	Yes	10	80	129	Cryovial
+TCGA-OR-A5K8	0		Sample Acquisition	TCGA-OR-A5K8-01	Surgical Resection	United States	9	Yes	0	90	828	Cassette
+TCGA-OR-A5K9	0		Sample Acquisition	TCGA-OR-A5K9-01	Surgical Resection	United States	9.8	Yes	0	90	141	Cryovial
+TCGA-OR-A5KB	0		Sample Acquisition	TCGA-OR-A5KB-01	Surgical Resection	United States	13	Yes	20	70	105	Cassette
+TCGA-OR-A5KO	-2		Sample Acquisition	TCGA-OR-A5KO-01	Surgical Resection	Germany	5.8	Yes	10	90	109	Cassette
+TCGA-OR-A5KP	-3		Sample Acquisition	TCGA-OR-A5KP-01	Surgical Resection	Germany	8.0	Yes	10	80	172	Cassette
+TCGA-OR-A5KQ	-4		Sample Acquisition	TCGA-OR-A5KQ-01	Surgical Resection	Germany	7.5	Yes	0	90	87	Cassette
+TCGA-OR-A5KS	1		Sample Acquisition	TCGA-OR-A5KS-01	Surgical Resection	Germany	9.0	Yes	5	80	184	Cassette
+TCGA-OR-A5KT	-7		Sample Acquisition	TCGA-OR-A5KT-01	Surgical Resection	Germany	5.0	Yes	0	80	161	Cassette
+TCGA-OR-A5KU	-13		Sample Acquisition	TCGA-OR-A5KU-01	Surgical Resection	Germany	13.0	Yes	20	70	84	Cassette
+TCGA-OR-A5KV	-2		Sample Acquisition	TCGA-OR-A5KV-01	Surgical Resection	Germany		Yes	0	90	97	Cassette
+TCGA-OR-A5KW	-7		Sample Acquisition	TCGA-OR-A5KW-01	Surgical Resection	Germany	7.1	Yes	10	80	250	Cassette
+TCGA-OR-A5KX	-3		Sample Acquisition	TCGA-OR-A5KX-01	Surgical Resection	Germany	18.0	Yes	10	80	224	Cassette
+TCGA-OR-A5KY	77		Sample Acquisition	TCGA-OR-A5KY-01	Surgical Resection	Germany	10	Yes	0	80	130	Cassette
+TCGA-OR-A5KZ	-3		Sample Acquisition	TCGA-OR-A5KZ-01	Surgical Resection	Germany	8.0	Yes	10	90	129	Cassette
+TCGA-OR-A5L1	-2		Sample Acquisition	TCGA-OR-A5L1-01	Surgical Resection	Germany	9.0	Yes	0	80	196	Cassette
+TCGA-OR-A5L2	-4		Sample Acquisition	TCGA-OR-A5L2-01	Surgical Resection	Germany	18.0	Yes	0	80	131	Cassette
+TCGA-OR-A5L3	-8		Sample Acquisition	TCGA-OR-A5L3-01	Surgical Resection	Germany	3.0	Yes	0	90	98	Cassette
+TCGA-OR-A5L4	-5		Sample Acquisition	TCGA-OR-A5L4-01	Surgical Resection	Germany	11.0	Yes	0	90	122	Cassette
+TCGA-OR-A5L5	-5		Sample Acquisition	TCGA-OR-A5L5-01	Surgical Resection	Germany	2.5	Yes	0	80	120	Cassette
+TCGA-OR-A5L6	-6		Sample Acquisition	TCGA-OR-A5L6-01	Surgical Resection	Germany	12.5	Yes	0	80	137	Cassette
+TCGA-OR-A5L8	-11		Sample Acquisition	TCGA-OR-A5L8-01	Surgical Resection	Germany	6	Yes	0	90	98	Cassette
+TCGA-OR-A5L9	-13		Sample Acquisition	TCGA-OR-A5L9-01	Surgical Resection	Germany	10.5	Yes	0	90	25	Cassette
+TCGA-OR-A5LA	-16		Sample Acquisition	TCGA-OR-A5LA-01	Surgical Resection	Germany	8.0	Yes	0	90	52	Cassette
+TCGA-OR-A5LB	0		Sample Acquisition	TCGA-OR-A5LB-01	Surgical Resection	Germany	5.5	Yes	0	90	53	Cassette
+TCGA-OR-A5LC	16		Sample Acquisition	TCGA-OR-A5LC-01	Surgical Resection	Germany	8.0	Yes	0	60	30	Cassette
+TCGA-OR-A5LD	-3		Sample Acquisition	TCGA-OR-A5LD-01	Surgical Resection	Germany	17.0	Yes	0	90	307	Cassette
+TCGA-OR-A5LE	-1		Sample Acquisition	TCGA-OR-A5LE-01	Surgical Resection	Germany	17.0	Yes	20	70	66	Cassette
+TCGA-OR-A5LF	-4		Sample Acquisition	TCGA-OR-A5LF-01	Surgical Resection	Germany	7.0	Yes	10	70	135	Cassette
+TCGA-OR-A5LG	0		Sample Acquisition	TCGA-OR-A5LG-01	Surgical Resection	Germany	7.2	Yes	0	90	215	Cassette
+TCGA-OR-A5LH	-4		Sample Acquisition	TCGA-OR-A5LH-01	Surgical Resection	Germany	6	Yes	20	70	169	Cassette
+TCGA-OR-A5LI	0		Sample Acquisition	TCGA-OR-A5LI-01	Surgical Resection	Germany	17.0	Yes	20	80	161	Cassette
+TCGA-OR-A5LJ	27		Sample Acquisition	TCGA-OR-A5LJ-01	Surgical Resection	Germany	13.0	Yes	10	70	156	Cassette
+TCGA-OR-A5LK	0		Sample Acquisition	TCGA-OR-A5LK-01	Surgical Resection	France	8.2	Yes	0	80	152	Cassette
+TCGA-OR-A5LL	0		Sample Acquisition	TCGA-OR-A5LL-01	Surgical Resection	France	9	Yes	0	80	196	Cassette
+TCGA-OR-A5LM	0		Sample Acquisition	TCGA-OR-A5LM-01	Surgical Resection	France	12.0	Yes	0	80	191	Cassette
+TCGA-OR-A5LN	0		Sample Acquisition	TCGA-OR-A5LN-01	Surgical Resection	France	8.3	Yes	0	90	141	Cassette
+TCGA-OR-A5LO	0		Sample Acquisition	TCGA-OR-A5LO-01	Surgical Resection	France	13.5	Yes	0	90	209	Cassette
+TCGA-OR-A5LP	0		Sample Acquisition	TCGA-OR-A5LP-01	Surgical Resection	France	8.5	Yes	0	90	154	Cassette
+TCGA-OR-A5LR	0		Sample Acquisition	TCGA-OR-A5LR-01	Surgical Resection	France	6.7	Yes	0	90	126	Cassette
+TCGA-OR-A5LS	0		Sample Acquisition	TCGA-OR-A5LS-01	Surgical Resection	France	9.3	Yes	0	90	151	Cassette
+TCGA-OR-A5LT	0		Sample Acquisition	TCGA-OR-A5LT-01	Surgical Resection	France	14.0	Yes	0	80	287	Cassette
+TCGA-OU-A5PI	0		Sample Acquisition	TCGA-OU-A5PI-01	Surgical Resection	United States	13.5	Yes	0	80	220	Cryovial
+TCGA-P6-A5OF	20		Sample Acquisition	TCGA-P6-A5OF-01	Surgical Resection	United States	10.5	Yes	0	80	200	Cryovial
+TCGA-P6-A5OH	0		Sample Acquisition	TCGA-P6-A5OH-01	Surgical Resection	United States	10	Yes	0	95	200	Cryovial
+TCGA-PA-A5YG	0		Sample Acquisition	TCGA-PA-A5YG-01	Surgical Resection	United States	7.8	Yes	0	90	580	Cryomold
+TCGA-PK-A5H8	0		Sample Acquisition	TCGA-PK-A5H8-01	Surgical Resection	Canada	19.5	Yes	15	85	95	Cryovial
+TCGA-PK-A5H9	0		Sample Acquisition	TCGA-PK-A5H9-01	Surgical Resection	Canada	10	Yes	0	100	95	Cryovial
+TCGA-PK-A5HA	0		Sample Acquisition	TCGA-PK-A5HA-01	Surgical Resection	Canada	5	Yes	0	99	95	Cryovial
+TCGA-PK-A5HB	0		Sample Acquisition	TCGA-PK-A5HB-01	Surgical Resection	Canada	12	Yes	5	95	103	Cryovial
+TCGA-PK-A5HC	0		Sample Acquisition	TCGA-PK-A5HC-01	Surgical Resection	Canada	12.5	Yes	20	80	118	Cryovial
