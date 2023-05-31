@@ -1,0 +1,49 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	TREATMENT_TYPE	TREATMENT_SUBTYPE	AGENT	NUMBER_OF_CYCLES	PRESCRIBED_DOSE	PRESCRIBED_DOSE_UNITS	REGIMEN_NUMBER	REGIMEN_INDICATION	REGIMEN_INDICATION_NOTES	MEASURE_OF_RESPONSE	CLINICAL_TRIAL_DRUG_CLASSIFICATION	ROUTE_OF_ADMINISTRATION	ROUTE_OF_ADMINISTRATION-2	THERAPY_ONGOING	TOTAL_DOSE	TOTAL_DOSE_UNITS	TX_ON_CLINICAL_TRIAL	ANATOMIC_TREATMENT_SITE	COURSE_NUMBER	NUMBER_OF_FRACTIONS	RADIATION_DOSAGE	RADIATION_TREATMENT_ONGOING	RADIATION_TYPE	RADIATION_UNITS	PHARM_REGIMEN	STEM_CELL_TRANSPLANTATION	STEM_CELL_TRANSPLANTATION_TYPE
+TCGA-OR-A5J8	107	138	Treatment	Radiation Therapy		Radiation 1															Primary Tumor Field		25	4500	No	External	cgy			
+TCGA-OR-A5JF	52	97	Treatment	Radiation Therapy		Radiation 1							complete response								Primary Tumor Field				No	External				
+TCGA-OR-A5JK	39	78	Treatment	Radiation Therapy		Radiation 1							stable disease								Primary Tumor Field		28	50.4	No	External	gy			
+TCGA-OR-A5JM	378	439	Treatment	Targeted Molecular Therapy		Sunitinib							clinical progressive disease				No			No										
+TCGA-OR-A5JM	378	439	Treatment	Targeted Molecular Therapy		Ketoconazole							clinical progressive disease				No			No										
+TCGA-OR-A5JM	134	196	Treatment	Radiation Therapy		Radiation 1							radiographic progressive disease												No	Internal				
+TCGA-OR-A5JS	49	83	Treatment	Radiation Therapy		Radiation 1															Primary Tumor Field			55	No	External	gy			
+TCGA-OR-A5JS	49	83	Treatment	Radiation Therapy		Radiation 2															Regional Site			45	No	External	gy			
+TCGA-OR-A5JT	49	111	Treatment	Radiation Therapy		Radiation 1															Primary Tumor Field			50.6	No	External	gy			
+TCGA-OR-A5JU	40	70	Treatment	Radiation Therapy		Radiation 1							radiographic progressive disease								Primary Tumor Field		25	55	No	External	gy			
+TCGA-OR-A5JU	36	70	Treatment	Radiation Therapy		Radiation 2							radiographic progressive disease								Regional Site		25	45	No	External	gy			
+TCGA-OR-A5JW	53	88	Treatment	Radiation Therapy		Radiation 1															Primary Tumor Field			52.8	No	External	gy			
+TCGA-OR-A5JW	53	88	Treatment	Radiation Therapy		Radiation 2															Regional Site			42.8	No	External	gy			
+TCGA-OR-A5JX	57	91	Treatment	Radiation Therapy		Radiation 1															Primary Tumor Field		25	55	No	External	gy			
+TCGA-OR-A5JX	48	91	Treatment	Radiation Therapy		Radiation 2															Regional Site		25	45	No	External	gy			
+TCGA-OR-A5JY	78	93	Treatment	Chemotherapy		Capecitabine											No			No										
+TCGA-OR-A5JY	78	93	Treatment	Radiation Therapy		Radiation 1															Primary Tumor Field			30	No	External	gy			
+TCGA-OR-A5JZ	16	85	Treatment	Radiation Therapy		Radiation 1															Primary Tumor Field			55	No	External	gy			
+TCGA-OR-A5K2	118	298	Treatment	Chemotherapy		Doxorubicin											No			No										
+TCGA-OR-A5K2	118	298	Treatment	Chemotherapy		Cisplatin											No			No										
+TCGA-OR-A5K2	118	299	Treatment	Chemotherapy		Carboplatin											No			No										
+TCGA-OR-A5K2	118	298	Treatment	Chemotherapy		Etoposide											No			No										
+TCGA-OR-A5K2	39	74	Treatment	Radiation Therapy		Radiation 1															Primary Tumor Field			52.8	No	External	gy			
+TCGA-OR-A5K2	39	74	Treatment	Radiation Therapy		Radiation 2															Regional Site			43.2	No	External	gy			
+TCGA-OR-A5K4	18	102	Treatment	Radiation Therapy		Radiation 1							complete response								Primary Tumor Field				No	External				
+TCGA-OR-A5K5	30	103	Treatment	Radiation Therapy		Radiation 1							radiographic progressive disease												No					
+TCGA-OU-A5PI	69	239	Treatment	Chemotherapy		Etoposide							stable disease				No			No										
+TCGA-OU-A5PI	725	878	Treatment	Immunotherapy		Bevacizumab							stable disease				No			No										
+TCGA-OU-A5PI	69	239	Treatment	Chemotherapy		Doxorubicin							stable disease				No			No										
+TCGA-OU-A5PI	55	239	Treatment	Chemotherapy		Cisplatin							stable disease				No			No										
+TCGA-OU-A5PI	69	239	Treatment	Chemotherapy		Mitotane							stable disease				No			No										
+TCGA-OU-A5PI	605	694	Treatment	Chemotherapy		Carboplatin							stable disease				No			No										
+TCGA-OU-A5PI	605	694	Treatment	Chemotherapy		Etoposide							stable disease				No			No										
+TCGA-OU-A5PI	605	694	Treatment	Chemotherapy		Doxorubicin							stable disease				No			No										
+TCGA-OU-A5PI	725	817	Treatment	Chemotherapy		Carboplatin							stable disease				No			No										
+TCGA-OU-A5PI	725	817	Treatment	Chemotherapy		Streptozocin							stable disease				No			No										
+TCGA-OU-A5PI	476	486	Treatment	Radiation Therapy		Radiation 1							stable disease								Distant Recurrence		4	48	No	External	gy			
+TCGA-PK-A5HB	968	1029	Treatment	Targeted Molecular Therapy		Sorafenib							clinical progressive disease				No			Yes										
+TCGA-PK-A5HB	1099	1099	Treatment	Radiation Therapy		Radiation 1							radiographic progressive disease								Distant Site		1	8	No	External	gy			
+TCGA-PK-A5HB	1172	1192	Treatment	Radiation Therapy		Radiation 10															Distant Recurrence		15	40	No	External	gy			
+TCGA-PK-A5HB	1113	1113	Treatment	Radiation Therapy		Radiation 2							partial response								Distant Site		1	10	No	External	gy			
+TCGA-PK-A5HB	1058	1072	Treatment	Radiation Therapy		Radiation 3							partial response								Distant Site		10	30	No	External	gy			
+TCGA-PK-A5HB	1289	1303	Treatment	Radiation Therapy		Radiation 4															Distant Site		10	30	No	External	gy			
+TCGA-PK-A5HB	1289	1303	Treatment	Radiation Therapy		Radiation 5															Distant Site		10	30	No	External	gy			
+TCGA-PK-A5HB	1289	1303	Treatment	Radiation Therapy		Radiation 6															Distant Recurrence		10	30	No	External	gy			
+TCGA-PK-A5HB	1289	1303	Treatment	Radiation Therapy		Radiation 7															Distant Site		10	30	No	External	gy			
+TCGA-PK-A5HB	1233	1246	Treatment	Radiation Therapy		Radiation 8															Distant Site		10	30	No	External	gy			
+TCGA-PK-A5HB	1233	1246	Treatment	Radiation Therapy		Radiation 9															Distant Site		10	30	No	External	gy			
