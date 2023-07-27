@@ -15,18 +15,20 @@ Original file is located at
 """Importing Data and Libraries"""
 
 
-
-
 class brca_tcga(InMemoryDataset):
     '''
-      This is a dataset that was gotten by integrating the breast cancer (BRCA TCGA) dataset from the cBioPortal
-       and data that shows node connections from Pathway Commons.
-       They were preprocessed together to form one huge dataset that could be converted to Pytorch geometric data objects.
-       This data is in the CSV format and can be downloaded, then processed to
-       form a graph dataset comprising different graphs for training Graph Neural Networks (GNN).
-       It could also be used as is for training Deep Neural Networks (DNN).
-       The dataset contains the gene features of each patient in graph_features
-       and the overall survival time (in months) of each patient, which are the labels.
+      This is a dataset that was gotten by integrating the breast cancer
+      (BRCA TCGA) dataset from the cBioPortal and data that shows
+      node connections from Pathway Commons.
+      They were preprocessed together to form one huge dataset that could be
+      converted to Pytorch geometric data objects.
+      This data is in the CSV format and can be downloaded, then processed to
+      form a graph dataset comprising different graphs for training
+      Graph Neural Networks (GNN).
+      It could also be used as is for training Deep Neural Networks (DNN).
+      The dataset contains the gene features of each patient in graph_features
+      and the overall survival time (in months) of each patient,
+      which are the labels.
     '''
 
     # Base URL to download the files
