@@ -103,10 +103,12 @@ class brca_tcga(InMemoryDataset):
         # Save the processed data
         torch.save((data, slices), self.processed_paths[0])
 
-    def predefined_split(self, train_index,
-                         test_index) -> Tuple['brca_tcga', 'brca_tcga']:
+    def predefined_split(
+            self, train_index, test_index,
+            val_index) -> Tuple['brca_tcga', 'brca_tcga', 'brca_tcga']:
         # method to define custom split
         train_dataset = self.index_select(train_index)
         test_dataset = self.index_select(test_index)
+        val_dataset = self.index_select(val_index)
 
-        return train_dataset, test_dataset
+        return train_dataset, test_dataset, val_dataset
