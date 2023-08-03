@@ -9,8 +9,7 @@ from torch_geometric.data import (Data, InMemoryDataset, download_url,
 
 """InMemoryDataset Class with brca_tcga.ipynb
 
-Original file is located at
-    https://colab.research.google.com/drive/1GgSlG9sIL312nK5wvX6_tzhFx9vYu8w1
+This notebook shows how the data was created
 """
 """Importing Data and Libraries"""
 
