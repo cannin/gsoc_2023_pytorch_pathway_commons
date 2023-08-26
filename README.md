@@ -96,7 +96,7 @@ This is a set of notebooks that shows how data was collected, preprocessed and i
 
    GNN model: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/gnn_modelling_with_acc_data.ipynb
 
-   View the modlling statistics here: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/docs/modelling_statistics.csv
+   View the modelling statistics here: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/docs/modelling_statistics.csv
 
 
 
