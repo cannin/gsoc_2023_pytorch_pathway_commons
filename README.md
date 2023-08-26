@@ -66,7 +66,7 @@ This is a set of notebooks that shows how data was collected, preprocessed and i
    All the datasets can be accessed here: https://zenodo.org/record/8251328
 
    The steps that were followed after downloading the required datasets are shown in the notebooks below.
-   https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/breast_cancer_preprocesing.ipynb
+   https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/breast_cancer_preprocesing.ipynb
    https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/acc_data_processing.ipynb
    
 
@@ -89,7 +89,7 @@ This is a set of notebooks that shows how data was collected, preprocessed and i
 
    GNN model: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/gnn_modelling_with_breast_cancer_data.ipynb
 
-   GAT model: 
+   GAT model: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/gat_modelling_with_breast_cancer_data.ipynb
 
    For acc_tcga:
    Baseline model: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/baseline_model_with_acc_data.ipynb
