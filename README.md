@@ -71,7 +71,7 @@ This is a set of notebooks that shows how data was collected, preprocessed and i
 
 4. Data Integration: In this stage, an edge index (N=271771 edges) was generated using Pathway Commons v12 data in a tabular format. To convert to a PyG Dataset, a list of graphs were 
    created from the preprocessed dataset first. Then, these two data types were integrated which resulted in patient-specific graphs which were then converted into PyG data objects.
-   These steps are shown in the provided notebook. Finally, these graphs are wrapped using the InMemoryDataset class for use with PyG. 
+   These steps are shown in the provided notebooks. Finally, these graphs are wrapped using the InMemoryDataset class for use with PyG. 
 
    You can view the datatsets final statistics here: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/docs/dataset_statistics.csv
 
