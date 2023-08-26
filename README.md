@@ -42,7 +42,7 @@ This is a set of notebooks that shows how data was collected, preprocessed and i
    After which, the only columns kept were the sample identifier, patient identifier and overall survival(months) of each patient.
    Next, the merged dataset was merged with the data_mrna_seq_v2_rsem.txt on the sample identifiers. 
    Then this new dataset was splitted into X and y which represents features and labels.
-   In this notebook, work was also done on creating training, test and validation splits for modelling using the 60:20:20 rule.
+   In this stage, work was also done on creating training, test and validation splits for modelling using the 60:20:20 rule for the brca_tcga and the 70:30 rule for acc_tcga
 
    The final results gotten from these steps include:
    For brca_tcga:
@@ -95,6 +95,8 @@ This is a set of notebooks that shows how data was collected, preprocessed and i
    Baseline model: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/baseline_model_with_acc_data.ipynb
 
    GNN model: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/gnn_modelling_with_acc_data.ipynb
+
+   View the modlling statistics here: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/docs/modelling_statistics.csv
 
 
 
