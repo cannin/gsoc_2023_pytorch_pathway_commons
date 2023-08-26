@@ -46,7 +46,7 @@ This is a set of notebooks that shows how data was collected, preprocessed and i
    In this stage, work was also done on creating training, test and validation splits for modelling using the 60:20:20 rule for the brca_tcga and the 70:30 rule for acc_tcga
 
    The final results gotten from these steps include:
-   For brca_tcga:
+   For brca_tcga, https://zenodo.org/record/8251328:
    - X_train, y_train, X_val, y_val, X_test, y_test.
    
    - Gene features: graph_idx
@@ -55,7 +55,7 @@ This is a set of notebooks that shows how data was collected, preprocessed and i
      
    - edges: edge_index
   
-   For acc_tcga:
+   For acc_tcga, https://zenodo.org/record/8286179:
    - X_train, y_train, X_test, y_test.
    
    - Gene features: graph_idx
@@ -63,8 +63,6 @@ This is a set of notebooks that shows how data was collected, preprocessed and i
    - Labels: graph_labels
      
    - edges: edge_index
-
-   All the datasets can be accessed here: https://zenodo.org/record/8251328
 
    The steps that were followed after downloading the required datasets are shown in the notebooks below.
    https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/breast_cancer_preprocesing.ipynb
