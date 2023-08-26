@@ -14,7 +14,7 @@ from torch_geometric.data import (Data, InMemoryDataset, download_url,
 * Google Colab: https://colab.research.google.com/drive/1T0xVJHYTCXmAxQAmqCqnMueUGe3_7ziW#scrollTo=tPeb6_Xq-lto
 
 # Example Model
-* GitHub: 
+* GitHub:  https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/modelling_with_breast_cancer_data.ipynb
 * Google Colab: https://colab.research.google.com/drive/1vPppweIGwHdGpCmbS19XzEh3d2eIzxCx
 """
 """Importing Data and Libraries"""
