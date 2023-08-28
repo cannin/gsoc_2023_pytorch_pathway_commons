@@ -65,8 +65,8 @@ This is a set of notebooks that shows how data was collected, preprocessed and i
    - edges: edge_index
 
    The steps that were followed after downloading the required datasets are shown in the notebooks below.
-   https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/breast_cancer_preprocesing.ipynb
-   https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/acc_data_processing.ipynb
+   - For brca_tcga: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/breast_cancer_preprocesing.ipynb
+   - For acc_tcga: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/acc_data_processing.ipynb
    
 
 4. Data Integration: In this stage, an edge index (N=271771 edges) was generated using Pathway Commons v12 data in a tabular format. To convert to a PyG Dataset, a list of graphs were 
