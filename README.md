@@ -75,7 +75,7 @@ This is a set of notebooks that shows how data was collected, preprocessed and i
 
    You can view the datatsets final statistics here: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/docs/dataset_statistics.csv
 
-   Notebook for brca_tcga Integration: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Noteboooks/InMemoryDataset_Class_with_brca_tcga.ipynb
+   Notebook for brca_tcga Integration: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/inmemorydataset_class_with_brca_tcga.ipynb
 
    Notebook for acc_tcga Integration: https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/Notebooks/pyg_sample_data_with_inmemorydataset_class.ipynb
 
