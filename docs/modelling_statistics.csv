@@ -3,3 +3,4 @@ Adrenocortical carcinoma (ACC),78,FLAML,694,NA,301.32s
 Adrenocortical carcinoma (ACC),78,GCNConv,665.97,70%; 30%; 0%,186.29s
 Breast invasive carcinoma (BRCA),1082,FLAML,1225,NA,303.59s
 Breast invasive carcinoma (BRCA),1082,GCNConv,957.83,60%; 20% 20%,2644.00s
+Breast invasive carcinoma (BRCA),1082,GATConv,916.81,60%; 20% 20%,3885.58s
